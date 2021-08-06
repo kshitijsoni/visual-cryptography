@@ -12,7 +12,7 @@ Only a simple user interface was needed for the implementation, which would allo
 input the desired parameters and then display information. A simple and effective way to do
 this was using a series of buttons, which progressed through the various stages of the schemes,
 allowing the input and output of relevant information. These consisted of:
-- Load Image: Allows user to select an image from le
+- Load Image: Allows user to select an image from file
 - Choose Scheme: Select the desired scheme
 - Set Parameters: Select the threshold k and number of shares n
 - Generate Shares: Display the shares on screen
